@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    android:background="#4682b4"
+    android:orientation="vertical"
+    android:padding="20sp">
+
+    <ImageView
+        android:layout_width="135dp"
+        android:layout_height="57dp"
+        android:src="@drawable/d1" />
+
+    <TextView
+        android:layout_width="171dp"
+        android:layout_height="61dp"
+        android:text="Hachrouf"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="63dp"
+        android:paddingLeft="10dp"
+        android:text="Hach28@gmail.com"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+
+
+</LinearLayout>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "190174430529",
+    "firebase_url": "https://admin-firmly-default-rtdb.firebaseio.com",
+    "project_id": "admin-firmly",
+    "storage_bucket": "admin-firmly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190174430529:android:655fce72f6240ccb77cdc0",
+        "android_client_info": {
+          "package_name": "com.example.admin_firmly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190174430529-cqvqbuakc49jihbjk6v9kthvu1sgg8ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AxnPPu01ECTTps2UqSz6XdgfEADYURQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190174430529-cqvqbuakc49jihbjk6v9kthvu1sgg8ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190174430529:android:e3257e50de63c80f77cdc0",
+        "android_client_info": {
+          "package_name": "com.example.user__admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190174430529-cqvqbuakc49jihbjk6v9kthvu1sgg8ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AxnPPu01ECTTps2UqSz6XdgfEADYURQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190174430529-cqvqbuakc49jihbjk6v9kthvu1sgg8ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190174430529:android:e4c8b98632722c8077cdc0",
+        "android_client_info": {
+          "package_name": "com.example.user_app_vaccine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190174430529-cqvqbuakc49jihbjk6v9kthvu1sgg8ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AxnPPu01ECTTps2UqSz6XdgfEADYURQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190174430529-cqvqbuakc49jihbjk6v9kthvu1sgg8ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

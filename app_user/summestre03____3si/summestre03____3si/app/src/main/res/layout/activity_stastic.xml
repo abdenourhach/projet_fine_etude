@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    android:background="@drawable/bb"
+    android:gravity="center"
+
+    android:orientation="vertical"
+    tools:context=".adddata">
+
+
+    <Button
+        android:id="@+id/add_submit_cert"
+        android:layout_width="264dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/costum_button"
+        android:text="ادخل اسم التلقيح"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/cert_prenom"
+        android:layout_width="231dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="15dp"
+        android:autofillHints=""
+        android:background="@drawable/costum_white"
+        android:hint="عدد مرات الظهور"
+        android:padding="10dp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/cert_prenom2"
+        android:layout_width="match_parent"
+        android:layout_height="152dp"
+        android:layout_marginBottom="15dp"
+        android:autofillHints=""
+        android:background="@drawable/costum_white"
+        android:hint="ملاحظة"
+        android:padding="10dp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/cert_prenom3"
+        android:layout_width="match_parent"
+        android:layout_height="152dp"
+        android:layout_marginBottom="15dp"
+        android:autofillHints=""
+        android:background="@drawable/costum_white"
+        android:hint="تنبيه"
+        android:padding="10dp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+
+</LinearLayout>

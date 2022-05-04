@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    android:background="@drawable/bb"
+
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".add_data_vaccination">
+
+
+    <EditText
+        android:id="@+id/add_name01"
+        android:layout_width="300dp"
+        android:layout_height="62dp"
+        android:layout_marginBottom="15dp"
+        android:autofillHints=""
+        android:background="@drawable/costum_white"
+        android:hint="son explication"
+        android:padding="20dp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+
+    <EditText
+        android:id="@+id/add_course01"
+        android:layout_width="300dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/costum_white"
+        android:padding="20dp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+
+    <EditText
+        android:id="@+id/add_email01"
+        android:layout_width="300dp"
+        android:layout_height="73dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/costum_white"
+        android:hint="Name_vac"
+        android:padding="20dp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/add_purl01"
+        android:layout_width="300dp"
+        android:layout_height="73dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/costum_white"
+        android:hint="son explication"
+        android:padding="20dp"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/add_submit01"
+        android:layout_width="264dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/costum_button"
+        android:backgroundTint="@color/teal_200"
+        android:padding="20dp"
+        android:text="اضافة تلقيح جديد"
+        android:textSize="20sp"
+        app:backgroundTint="#4682b4" />
+
+    <Button
+        android:id="@+id/add_back01"
+        android:layout_width="122dp"
+        android:layout_height="58dp"
+        android:background="@drawable/costum02"
+
+        android:text="الرجوع"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:backgroundTint="#4682b4" />
+
+
+</LinearLayout>

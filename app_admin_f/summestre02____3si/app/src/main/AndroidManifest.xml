@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.admin_firmly">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+
+        android:theme="@style/Theme.Admin_firmly">
+        <activity android:name=".statistic"></activity>
+        <activity android:name=".Maadat_main" />
+        <activity android:name=".add_data_vaccination" />
+        <activity android:name=".Main_vaccination" />
+        <activity android:name=".Archif_DZ" />
+        <activity android:name=".Send_notf_ma3niyin" />
+        <activity android:name=".nasaiih_DZ" />
+        <activity android:name=".program_vac_DZ" />
+        <activity android:name=".add_3agbo_vaccin" />
+        <activity android:name=".date_pecter" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".registre" />
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".login" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>   </activity>
+        <activity android:name=".centre_app_Main">
+
+        </activity>
+
+        <activity android:name=".couter_chat" />
+        <activity android:name=".SettingActivity" />
+        <activity android:name=".adddata" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".setting_menu" />
+        <activity android:name=".call_me_menu" />
+        <activity android:name=".about_app_menu" />
+        <activity android:name=".who_are_we" />
+        <activity android:name=".ta9yiim" />
+        <activity android:name=".logout_menu" />
+        <activity android:name=".share_menu" />
+    </application>
+
+</manifest>

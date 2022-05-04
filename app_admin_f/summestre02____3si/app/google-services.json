@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190174430529",
+    "project_id": "admin-firmly",
+    "storage_bucket": "admin-firmly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190174430529:android:655fce72f6240ccb77cdc0",
+        "android_client_info": {
+          "package_name": "com.example.admin_firmly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190174430529-cqvqbuakc49jihbjk6v9kthvu1sgg8ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AxnPPu01ECTTps2UqSz6XdgfEADYURQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190174430529-cqvqbuakc49jihbjk6v9kthvu1sgg8ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

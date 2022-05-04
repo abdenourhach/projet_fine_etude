@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@color/colorPrimaryDark"
+    android:padding="20sp"
+    android:orientation="vertical">
+<ImageView
+    android:src="@color/black"
+    android:layout_width="75dp"
+    android:layout_height="75dp"
+    />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="akwadna"
+    android:textColor="#fff"
+    android:textSize="16dp"
+    android:textStyle="bold"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
